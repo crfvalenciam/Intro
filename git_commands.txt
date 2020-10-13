@@ -1,0 +1,7 @@
+git init
+git commit; :wq ; i
+git log; git status
+ls; pwd
+git diff
+git checkout -- nombre de archivo
+git add nombre del archivo
